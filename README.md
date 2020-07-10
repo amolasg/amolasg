@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I'm Amol, Golang Developer
+I am Amol, Golang Developer 🇮🇳 
+
+<p float="centre">
+  <img src="https://github.com/amolasg/amolasg/blob/master/assets/go.gif"  height="120" />
+</p>
 
 
 
