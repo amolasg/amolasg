@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I'm Amol, Golang Developer
+
+
+
+# 📫 How to reach me?
+
+ - Visit my [Blog](https://gophersgo.blogspot.com/) 🌐
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/amol-gaikwad-b7562947/) 👨🏻‍💻
+ - Follow me on [Twitter](https://twitter.com/amolasg) 🐦
+ - Shoot Me an [Email](mailto:amol.asg@gmail.com) 💌
+
+
 <!--
 **amolasg/amolasg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
