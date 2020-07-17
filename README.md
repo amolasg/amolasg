@@ -1,11 +1,11 @@
-### Hello World 👋
+<h1 align="center">Hello World 👋, I'm Amol</h1>
+<h3 align="center">A passionate Golang Developer from India 🇮🇳 </h3>
+<h3 align="center">I :heart: open source!</h3>
 
- <b> I'm AMOL ,  </b>
-- Golang Developer 🇮🇳 
-- I :heart: open source!
+- 
   
 
-<p float="centre">
+<p align="center">
   <img src="https://github.com/amolasg/amolasg/blob/master/assets/go.gif"  height="120" />
 </p>
 
@@ -15,18 +15,28 @@
    <img src="https://github.com/amolasg/amolasg/blob/master/assets/go.png"  height="85" />
   <img src="https://github.com/amolasg/amolasg/blob/master/assets/ubuntu.png"  height="85" />
   <img src="https://github.com/amolasg/amolasg/blob/master/assets/vs-code.png"  height="85" />
-  <img src="https://github.com/amolasg/amolasg/blob/master/assets/chrome.png"  height="85" />
   <img src="https://github.com/amolasg/amolasg/blob/master/assets/postman.png"  height="85" />
+  <img src="https://github.com/amolasg/amolasg/blob/master/assets/mysql.png"  height="85" />
+  <img src="https://github.com/amolasg/amolasg/blob/master/assets/docker.png"  height="85" />
+  <img src="https://github.com/amolasg/amolasg/blob/master/assets/chrome.png"  height="85" />
   <img src="https://github.com/amolasg/amolasg/blob/master/assets/terminal-512.png"  height="85" />
+ 
 </p>
 
 
 # 📫 How to reach me?
 
- - Visit my [Blog](https://gophersgo.blogspot.com/) 🌐
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/amol-gaikwad-b7562947/) 👨🏻‍💻
- - Follow me on [Twitter](https://twitter.com/amolasg) 🐦
- - Shoot Me an [Email](mailto:amol.asg@gmail.com) 💌
+- 📝 I regulary write articles on [gophersgo.blogspot.com](gophersgo.blogspot.com)
+
+- 📫 Email **amol.asg@gmail.com**
+
+ <p float="centre">
+<a href="https://twitter.com/amolasg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="amolasg" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/amolasg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amolasg" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/8473796/amolasg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="users/8473796/amolasg" height="30" width="30" /></a>
+<a href="https://fb.com/aamolasg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="aamolasg" height="30" width="30" /></a>
+<a href="https://instagram.com/_cool_amol_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_cool_amol_" height="30" width="30" /></a>
+</p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amolasg&show_icons=true)
 
