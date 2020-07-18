@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Golang Developer from India 🇮🇳 </h3>
 <h3 align="center">I :heart: open source!</h3>
 
-- 
+
   
 
 <p align="center">
@@ -38,7 +38,8 @@
 <a href="https://instagram.com/_cool_amol_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_cool_amol_" height="30" width="30" /></a>
 </p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amolasg&show_icons=true)
+![Amol's github stats](https://github-readme-stats.vercel.app/api?username=amolasg&show_icons=true)
+
 
 
 <!--
