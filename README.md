@@ -12,13 +12,15 @@
 # My Daily Drivers
 
 <p float="left">
-   <img src="https://github.com/amolasg/amolasg/blob/master/assets/go.png"  height="85" />
-  <img src="https://github.com/amolasg/amolasg/blob/master/assets/ubuntu.png"  height="85" />
-  <img src="https://github.com/amolasg/amolasg/blob/master/assets/vs-code.png"  height="85" />
-    <img src="https://github.com/amolasg/amolasg/blob/master/assets/mysql.png"  height="85" />
+  <img src="https://github.com/amolasg/amolasg/blob/master/assets/ubuntudde.png"  height="85" />
+  <img src="https://github.com/amolasg/amolasg/blob/master/assets/go.png"  height="85" />
+  <img src="https://github.com/amolasg/amolasg/blob/master/assets/vscode.png"  height="85" />
+  <img src="https://github.com/amolasg/amolasg/blob/master/assets/postgres.png"  height="85" />
+  <img src="https://github.com/amolasg/amolasg/blob/master/assets/mysql.png"  height="85" />
   <img src="https://github.com/amolasg/amolasg/blob/master/assets/docker.png"  height="85" />
   <img src="https://github.com/amolasg/amolasg/blob/master/assets/chrome.png"  height="85" />
   <img src="https://github.com/amolasg/amolasg/blob/master/assets/terminal-512.png"  height="85" />
+  <img src="https://github.com/amolasg/amolasg/blob/master/assets/postman.png"  height="85" />
  
 </p>
 
