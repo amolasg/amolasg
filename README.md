@@ -38,6 +38,7 @@
 </p>
 
 ![Amol's github stats](https://github-readme-stats.vercel.app/api?username=amolasg&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amolasg)
 
 
 
