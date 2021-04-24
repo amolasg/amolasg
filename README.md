@@ -12,7 +12,7 @@
 # My Daily Drivers
 
 <p float="left">
-  <img src="https://github.com/amolasg/amolasg/blob/master/assets/ubuntu.png"  height="85" />
+  <img src="https://github.com/amolasg/amolasg/blob/master/assets/ubu.png"  height="85" />
   <img src="https://github.com/amolasg/amolasg/blob/master/assets/go.png"  height="85" />
   <img src="https://github.com/amolasg/amolasg/blob/master/assets/vscode.png"  height="85" />
   <img src="https://github.com/amolasg/amolasg/blob/master/assets/postgres.png"  height="85" />
